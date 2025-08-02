@@ -10,7 +10,7 @@
 - 🎓 BCA Graduate | CEH v13 Certified
 - 💻 Currently focused on **Web Application Penetration Testing**, **SOC Analyst Skills**, and **Digital Forensics**
 - 🧠 Learning: CHFI | Linux/Windows/Mac Forensics | Threat Intelligence | Cloud Security
-- 🛡️ Tools Mastered: Nmap, Nikto, Wireshark, Burp Suite, Nessus, Metasploit, OWASP ZAP, Zenmap
+- 🛡️ Tools Mastered: Nmap, Nikto, Wireshark, Burp Suite, Nessus, Metasploit, OWASP ZAP, Zenmap, OWASP TOP 10 , Splunk , Kiwi 
 - 🔍 Exploring: Android Hacking, Cryptography, IoT Security
 
 ---
