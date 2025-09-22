@@ -46,7 +46,7 @@ _Organized reports for all CEHv13 modules with hands-on documentation._
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket8757)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/aniket-pagare01)
 [![Gmail](https://img.shields.io/badge/-aniketpagare1411@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aniketpagare1411@gmail.com)
 
 ---
